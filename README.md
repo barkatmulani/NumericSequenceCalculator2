@@ -1,4 +1,4 @@
-# NumericSequenceCalculator
+# Numeric Sequence Calculator
 Numeric Sequence Calculator Test
 
 Pls. enter a positive integer in the blank field just below the heading 'Numeric Sequence Calculator' and click 'Calcuate Sequences' button. The screen will then show five sequences of numbers as follows:
